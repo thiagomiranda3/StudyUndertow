@@ -1,4 +1,4 @@
-package br.com.ddmx.studyundertow;
+package com.thiago.studyundertow;
 
 import io.undertow.Undertow;
 import io.undertow.io.Sender;
